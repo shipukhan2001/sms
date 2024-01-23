@@ -302,7 +302,7 @@ FACEBOOK  : Shipu Khan
 """)
   os.system("xdg-open https://www.facebook.com/profile.php?id=61555583623727")
   sys.exit()
-baner= str(baner)
+baner= f""" {baner} \033[1;37m
 baner = str(baner)
 baner = baner.replace("0","")
 logo=f""" {baner} \033[1;37m
