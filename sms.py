@@ -31,9 +31,9 @@ def primiam():
 \x1b[1;92m:......:::..:::::..::....::..::::::::::.......:::                                                                         
 
 DEVELOPER : Shipu Khan
-TEAM            : Friends Cyber 999
-VERSION      : 2.0
-PROJECT     : SMS BOMBER 
+TEAM      : Friends Cyber 999
+VERSION   : 2.0
+PROJECT   : SMS BOMBER 
 FACEBOOK  : Shipu Khan
 ××××××××××××××××××××××××××××××××××××××××××××"""
   for i in logo:
@@ -307,9 +307,9 @@ baner = baner.replace("0","")
 logo=f""" {baner} \033[1;37m
 ××××××××××××××××××××××××××××××××××××××××××××
 \033[1;37m❲\033[38;5;46m+\033[1;37m❳ DEVELOPER : Shipu Khan
-\033[1;37m❲\033[38;5;46m+\033[1;37m❳ TEAM            : Friends Cyber 999
-\033[1;37m❲\033[38;5;46m+\033[1;37m❳ VERSION      : 2.0
-\033[1;37m❲\033[38;5;46m+\033[1;37m❳ PROJECT     : SMS BOMBER 
+\033[1;37m❲\033[38;5;46m+\033[1;37m❳ TEAM      : Friends Cyber 999
+\033[1;37m❲\033[38;5;46m+\033[1;37m❳ VERSION   : 2.0
+\033[1;37m❲\033[38;5;46m+\033[1;37m❳ PROJECT   : SMS BOMBER 
 \033[1;37m❲\033[38;5;46m+\033[1;37m❳ FACEBOOK  : Shipu Khan
 ××××××××××××××××××××××××××××××××××××××××××××"""
 print(logo)
