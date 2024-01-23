@@ -36,6 +36,7 @@ VERSION   : 2.0
 PROJECT   : SMS BOMBER 
 FACEBOOK  : Shipu Khan
 ××××××××××××××××××××××××××××××××××××××××××××"""
+  print('\033[38;5;46m')
   for i in logo:
     sys.stdout.write(i)
     sys.stdout.flush()
@@ -301,7 +302,6 @@ FACEBOOK  : Shipu Khan
 """)
   os.system("xdg-open https://www.facebook.com/profile.php?id=61555583623727")
   sys.exit()
-baner= os.system("logo")
 baner = str(baner)
 baner = baner.replace("0","")
 logo=f""" {baner} \033[1;37m
